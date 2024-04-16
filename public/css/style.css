@@ -12,6 +12,14 @@ a {
   color: #00B7FF;
   text-decoration: none;
 }
+
+ul{
+  list-style: none;
+}
+
+li{
+  margin-top: 10px;
+}
 img{
   width: 100%;
 }
